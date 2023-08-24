@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RFID XML Generátor</title>
+</head>
+<body>
+    <h1>RFID XML Generátor</h1>
+
+    <form method="POST">
+        <label for="user_input1">Čísla na nahodenie (oddelené čiarkou):</label><br>
+        <textarea name="user_input1" rows="4" cols="50"></textarea><br><br>
+
+        <label for="user_input2">Materiál:</label><br>
+        <textarea name="user_input2" rows="4" cols="50"></textarea><br><br>
+
+        <label for="generated_text">Vygenerované XML:</label><br>
+        <textarea name="generated_text" rows="10" cols="50" readonly>{{ generated_text }}</textarea><br><br>
+
+        <input type="submit" value="Generate Text">
+    </form>
+</body>
+</html>
