@@ -1,1 +1,2 @@
 The Automated XML Code Generator is a program developed to streamline the process of creating XML codes for product identification in bulk. This program aims to eliminate the manual effort required to generate XML codes for each product, resulting in a significant reduction in processing time from approximately 40 minutes to just 1 minute.
+![2](https://github.com/Hilmerson/RFID_Generator/assets/103628349/94ce2b35-2d5e-477a-a47a-b8505366e3f6)
